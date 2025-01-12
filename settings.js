@@ -11,7 +11,7 @@ global.location = "Africa,Nigeria,Delta state" //ur location
 
 //new
 global.botname = '꧁ 𝕺𝖗𝖊𝖐𝖎 𝖒𝖉 ꧂' //ur bot name
-global.ownernumber = '2349153596300' //ur owner number
+global.ownernumber = '2347059237476' //ur owner number
 global.ownername = '꧁𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙꧂X⌣X 🐥' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaoOiuwDp2QH070eTE01"// DON'T CHANGE 
 global.wagc = "https://whatsapp.com/channel/0029VaoOiuwDp2QH070eTE01"// DON'T CHANGE
@@ -20,9 +20,9 @@ global.wm = "꧁𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙꧂X⌣X 🐥"
 global.botscript = 'https://github.com/DEMONST3R-CODER/OREKI-MD' //script link
 global.packname = "Oreki MD"
 global.author = "꧁𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙꧂X⌣X 🐥"
-global.creator = "2349153596300@s.whatsapp.net"
+global.creator = "2347059237476@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2349153596300"] // Premium User
+global.premium = ["2347059237476"] // Premium User
 global.hituet = 0
 
 //bot set
